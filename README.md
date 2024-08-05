@@ -1,1 +1,2 @@
-# Student-App-Code
+# cbz-student-ui
+
